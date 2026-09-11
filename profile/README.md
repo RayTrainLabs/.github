@@ -20,7 +20,7 @@ If one of them saves you an afternoon, that is the point.
 
 Raygency does AI strategy and implementation work. If a tool here is close to what you need but not quite it, we probably build the version that is.
 
-Reach us through the Raygency site.
+Find us at [raygency.com](https://www.raygency.com).
 
 ---
 
